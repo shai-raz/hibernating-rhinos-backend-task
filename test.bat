@@ -1,14 +1,1 @@
-start py test.py
-start py test.py
-start py test.py
-start py test.py
-start py test.py
-start py test.py
-start py test.py
-start py test.py
-start py test.py
-start py test.py
-start py test.py
-start py test.py
-start py test.py
-start py test.py
+for /l %%x in (1,1,10) do start py test.py
